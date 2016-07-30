@@ -1,2 +1,0 @@
-git remote add origin https://github.com/AssassinX24414/AssassinX24414.github.io.git
-git push -u origin master
